@@ -11,7 +11,6 @@ final public class NoCarta {
     
     private NoCarta prox = null;
     private boolean aberta = false;
-    private boolean draggable = false;
     
     
     /**
@@ -46,19 +45,7 @@ final public class NoCarta {
     public void setProx(NoCarta prox) {
         this.prox = prox;
     }
-    
-    
-    public boolean isDraggable() {
-        return this.draggable;
-    }
-    
-    
-    
-    public void setDraggable(boolean draggable) {
-        this.draggable = draggable;
-    }
-    
-    
+       
     
     public int getNumero() {
         return this.numero;

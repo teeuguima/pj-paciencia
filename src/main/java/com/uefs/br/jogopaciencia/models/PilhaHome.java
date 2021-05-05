@@ -12,8 +12,6 @@ import com.uefs.br.jogopaciencia.models.PilhaCarta;
  * @author willy
  */
 public class PilhaHome extends PilhaCarta implements IHome {
-    public int x = 0;
-    public int y = 0;
 
     
     public PilhaHome(String nome) {
