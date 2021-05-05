@@ -1,0 +1,16 @@
+com\uefs\br\jogopaciencia\interfaces\IHome.class
+com\uefs\br\jogopaciencia\models\ListaCarta.class
+com\uefs\br\jogopaciencia\models\NoCarta.class
+com\uefs\br\jogopaciencia\models\Naipe.class
+com\uefs\br\jogopaciencia\models\PilhaHome.class
+com\uefs\br\jogopaciencia\models\Baralho.class
+com\uefs\br\jogopaciencia\models\Baralho$ENaipe.class
+com\uefs\br\jogopaciencia\models\PilhaCarta.class
+com\uefs\br\jogopaciencia\main\MersenneTwisterFast.class
+com\uefs\br\jogopaciencia\models\NoCarta$1.class
+com\uefs\br\jogopaciencia\facade\PacienciaFacade.class
+com\uefs\br\jogopaciencia\models\MonteHome.class
+com\uefs\br\jogopaciencia\main\Paciencia.class
+com\uefs\br\jogopaciencia\models\ListaHome.class
+com\uefs\br\jogopaciencia\util\Console.class
+com\uefs\br\jogopaciencia\models\Baralho$ECor.class
